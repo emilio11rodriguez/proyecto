@@ -1,6 +1,4 @@
 import mysql.connector
-
-
 def connectionBD():
     print("ENTRO A LA CONEXION")
     try:
